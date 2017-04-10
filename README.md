@@ -1,6 +1,8 @@
 # GraphQL Giphy App
 
-This app uses the [graphqlhub](https://www.graphqlhub.com/) graphql endpoint to retrieve and display gifs.
+This app uses the [graphqlhub](https://www.graphqlhub.com/) graphql endpoint to retrieve and display gifs. 
+
+It's part of my [Introduction to GraphQL](http://matteos-tech-courses.thinkific.com/courses/introduction-to-graphql) course and serves as a simple example app for people to explore.
 
 ## How to install
 
